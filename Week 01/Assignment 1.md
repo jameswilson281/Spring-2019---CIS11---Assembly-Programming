@@ -5,9 +5,8 @@ Due 2 Weeks before the final day of classes
 	- [ ] 1.2.1 Section Review, Questions 2, 3, 10
 	- [ ] 1.3.9 Section Review, Questions 2, 3, 5, 6, 7 
 	- [ ] 1.7.1 Short Answer, Questions 1-22 and 25
-	- [ ] 1.7.2 Algorithm Workbench, Choose any 1 question 	
-    - [ ] Upload your assignment to GitHub
-    - [ ] Email james.wilson@rccd.edu with the url to the source code on GitHub	
+	- [ ] 1.7.2 Algorithm Workbench, Choose any 1 question 	    
+    - [ ] Email the assignment to james.wilson@rccd.edu
 	
 	** 36 Possible Points (1 for each question) ***
 	
